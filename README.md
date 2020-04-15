@@ -1,16 +1,16 @@
 # Coronavirus-Public-Arabic-Twitter-Data-Set
 
 
-The repostory contains a collection of Arabic Tweet IDs associated with the novel coronavirus COVID-19. The dataset contains data collected from Janueary 1st 2020. We used Crimson Hexagon a social media analytic platform that provides paid data stream access. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. The total number of tweets collected until now is 3,800,855.
+The repostory contains a collection of Arabic Tweet IDs associated with the novel coronavirus COVID-19. The dataset contains data collected from December 1st 2019 until April 11th 2020. We used Crimson Hexagon a social media analytic platform that provides paid data stream access. To comply with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), we are only publicly releasing the Tweet IDs of the collected Tweets. The data is released for non-commercial research use. The total number of tweets collected until now is 3,800,855.
 
 
 # Data Organization
 
 The Tweet-IDs are organized as follows:
 
-- TweetIDs files are orgnized in folders indicating the differnt types of hasgtahg topics - explained below.
-- Indivusal topic files contains a collection of files for hastags realted to that topic.
-- Each file is prefixed with "coronavirus-tweet-id-HASHTAG NAME".
+- TweetIDs files are orgnized in folders indicating the year and month of the collection.
+- Indivusal Tweet-ID files contains a collection of Tweet IDs, all follow the same structure. 
+- Each file is prefixed with "coronavirus-tweet-id-" followed by YEAR-Month-DAY.
 
 
 # Dataset Discrption 
